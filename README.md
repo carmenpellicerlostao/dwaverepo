@@ -9,3 +9,5 @@ List of notebooks:
 - 05 CSP and Optimization of Discrete Quadratic Models (DQM): EMPLOYEE SCHEDULING
 - 06 CSP and Optimization of Constrained Quadratic Models (CQM): EMPLOYEE SCHEDULING
 - 07 Minor Embedding
+
+jksdakjdhksajdsahkj
