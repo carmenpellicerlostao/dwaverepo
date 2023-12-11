@@ -1,7 +1,7 @@
 # dwaverepo
 
 List of notebooks:
-- 00 Installing Ocean DSK
+- 00 Installing Ocean SDK
 - 01 Graph problems: MIN VERTEX COVER
 - 02 SAT unconstrained problems: 2 and 3-SAT
 - 03 Constrained SAT problems (CSP): GRAPH PARTITIONING
